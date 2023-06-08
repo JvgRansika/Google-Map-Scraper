@@ -13,7 +13,7 @@ Make sure you have a compatible version of Chrome browser installed as the scrap
 
 2. Run the scraper script using the following command:
 ```bash
-python scraper.py
+python main.py
 ```
 This will initiate the scraping process and the scraper will start searching the queries on Google Maps.
 
